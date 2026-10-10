@@ -1,0 +1,8 @@
+{
+  "name": "Remix English Adventure",
+  "description": "Educational 7th grade English learning app: Daily Routines, Present Simple \u0026 Adverbs of Frequency gamified adventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
